@@ -1,3 +1,4 @@
 qifparse
 openai
 google-generativeai
+anthropic
