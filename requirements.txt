@@ -4,3 +4,4 @@ google-generativeai
 anthropic
 google-genai
 markdown-it-py
+pytesseract
